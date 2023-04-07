@@ -1,0 +1,10 @@
+﻿  PubSub2.cpp
+C:\Users\Nex\Desktop\IKP\IKP-projekat\Common\HashTable.h(15,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nex\Desktop\IKP\IKP-projekat\Common\HashTable.h(134,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\Nex\Desktop\IKP\IKP-projekat\Common\HashTable.h(134,13): message : consider using '%lld' in the format string
+C:\Users\Nex\Desktop\IKP\IKP-projekat\Common\HashTable.h(134,13): message : consider using '%Id' in the format string
+C:\Users\Nex\Desktop\IKP\IKP-projekat\Common\HashTable.h(134,13): message : consider using '%I64d' in the format string
+C:\Users\Nex\Desktop\IKP\IKP-projekat\Common\PubSub2.h(146,29): warning C4101: 'clientAddr': unreferenced local variable
+C:\Users\Nex\Desktop\IKP\IKP-projekat\Common\PubSub2.h(278,35): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'int'
+C:\Users\Nex\Desktop\IKP\IKP-projekat\Common\PubSub2.h(278,35): warning C4302: 'type cast': truncation from 'LPVOID' to 'int'
+  PubSub2.vcxproj -> C:\Users\Nex\Desktop\IKP\IKP-projekat\x64\Debug\PubSub2.exe

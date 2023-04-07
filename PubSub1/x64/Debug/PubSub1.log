@@ -1,0 +1,4 @@
+﻿  PubSub1.cpp
+C:\Users\Nex\Desktop\IKP\IKP-projekat\Common\Connection.h(2,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT'
+  PubSub1.vcxproj -> C:\Users\Nex\Desktop\IKP\IKP-projekat\x64\Debug\PubSub1.exe
